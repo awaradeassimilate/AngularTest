@@ -1,0 +1,248 @@
+.dark{
+    color: #3a408c;
+    font-size: 30px;
+}
+.fa-search:before {
+    content: "\f002";
+    margin-left: 100px;
+}
+.fa-user:before {
+    content: "\f007";
+    margin-left: 1080px;
+}
+.new{
+    color: 
+    #004197;
+}
+.product{
+   color: #E2342D
+}
+.shop{
+    position: absolute;
+    left: 23.13%;
+    right: 73.35%;
+    top: 2.74%;
+    bottom: 96.75%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;               
+    color: #222222;
+}
+.essential{
+   color: #004197;
+    position: absolute;
+    left: 32.21%;
+    right: 60.54%;
+    top: 2.74%;
+    bottom: 96.75%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #222222;
+}
+.bestSeller{
+    position: absolute;
+    left: 60.69%;
+    right: 30.67%;
+    top: 2.74%;
+    bottom: 96.75%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #222222;
+}
+.about{
+    position: absolute;
+    left: 74.45%;
+    right: 19.25%;
+    top: 2.74%;
+    bottom: 96.75%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #222222;
+}
+.mac{
+    font-family: 'Monotype Corsiva';
+    font-style: italic;
+    font-size: 54px;
+    line-height: 54px;
+    text-align: center;
+    color: #E2342D;
+}
+.macEssential{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #707070;
+}
+.macc{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+    color: #E2342D;
+}
+.SELLINGS{
+    color:black;  
+}
+.headingFont{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 63px;
+}
+.sentenceheading1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 54px;
+    line-height: 140%;
+}
+.ess{
+    font-family: 'Monotype Corsiva';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 54px;
+    line-height: 50%;
+    color: #004197;
+    }
+    .HEAD{
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 140%;
+    }
+    .register{
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 15px;
+        color: #4A4B4D;
+    }
+    .macEss{
+        position: absolute;
+        left: 44.8%;
+        right: 44.58%;
+        top: 1.84%;
+        bottom: 95.85%;
+        font-family: 'Monotype Corsiva';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 45px;
+        text-align: center;
+        color: #E2342D;
+    }
+    .home{
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        color: black;
+    }
+    .reservedCase{
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        color: #222222;
+    }
+    .view{
+        background: #D2D2D2;
+    }
+    .providingService{
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 54px;
+        line-height: 81px;
+        color: #3A408C;
+    }
+    .s1{
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .newProduct{
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 54px;
+    }
+    .background-color{
+        background: #FFFFFF;
+    }
+    .s2{
+        font-family: 'Poppins';
+    }
+    .learnMore{
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 30px;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    }
+    .background{
+        background: #F8F8F8;
+    }
+    .viewAll{
+        background: #D2D2D2;
+        border: 0;
+        font-family: 'Montserrat';
+        border: none;
+        color: black;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-weight: 500;
+        font-size: 20px;
+        margin: 4px 2px;
+        cursor: pointer;
+        -webkit-transition-duration: 0.4s; 
+        transition-duration: 0.4s;
+        opacity: 0.5;
+    }
+    .input{
+        border: 0;
+    }
+    .borderWidth{
+        margin-right: 105px;
+        margin-top: 1px;
+        border: 1px solid #222222;
+    }
+    .containerBackground{
+        background-color: #E2342D;
+    }
+    .logo{
+        background-color: #004197;
+        border-radius: 100%;
+        border: 1px solid#004197;
+        padding: 12px;
+        color: white;      
+    }
+    .fa-envelope{
+        color: black;
+    }
+    
+    
